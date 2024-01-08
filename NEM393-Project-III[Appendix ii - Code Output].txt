@@ -1,0 +1,9 @@
+Activity = 42864.65305143332 Bq for 10 cycles.
+Activity = 428594.0715900263 Bq for 10^2 cycles.
+Activity = 4280699.528904795 Bq for 10^3 cycles.
+Activity = 42287550.16581027 Bq for 10^4 cycles.
+Activity = 375303176.15578413 Bq for 10^5 cycles.
+Activity = 1472179550.1645622 Bq for 10^6 cycles.
+Activity = 1576014705.9975712 Bq for 10^7 cycles.
+Activity = 1576014706.0 Bq for 10^8 cycles.
+Activity = 1576014706.0 Bq for 10^9 cycles.
